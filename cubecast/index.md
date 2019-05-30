@@ -1,5 +1,9 @@
 # CubeCast Archive
 
+## Seasons 1-3
+
+<https://cubecast.cubing.net/episodes/>
+
 ## Season 5
 
 - [CubeCast Season 5 Episode 01 - Phil Yu.mp3](./files/season-5/CubeCast%20Season%205%20Episode%2001%20-%20Phil%20Yu.mp3)
