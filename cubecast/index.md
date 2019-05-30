@@ -1,8 +1,8 @@
 # CubeCast Archive
 
-## Seasons 1-3
+## Seasons 1-3 and CubeCast 2.0
 
-<https://cubecast.cubing.net/episodes/>
+<https://cubecast.cubing.net/episodes.html>
 
 ## Season 5
 
