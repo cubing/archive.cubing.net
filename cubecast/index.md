@@ -12,3 +12,5 @@
 - [CubeCast Season 5 Episode 04 - Mark Boyanowski and Roman Strakhov.mp3](./files/season-5/CubeCast%20Season%205%20Episode%2004%20-%20Mark%20Boyanowski%20and%20Roman%20Strakhov.mp3)
 - [CubeCast Season 5 Episode 05 - Brandon Lin.mp3](./files/season-5/CubeCast%20Season%205%20Episode%2005%20-%20Brandon%20Lin.mp3)
 - [CubeCast Season 5 Episode 06 - Rowe Hessler.mp3](./files/season-5/CubeCast%20Season%205%20Episode%2006%20-%20Rowe%20Hessler.mp3)
+
+Thanks to Caleb Fox for providing the season 5 archives!
