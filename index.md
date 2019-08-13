@@ -4,3 +4,4 @@ This is a collection of cubing materials that have lost their original home over
 
 - [CubeCast](./cubecast/)
 - [Software](https://cubing.net/software/)
+- [strangepuzzle.com](./strangepuzzle/)
